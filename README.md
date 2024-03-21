@@ -7,5 +7,7 @@ This folder contains 4 resynthesised versions of the reference .wav file using s
 DCT Example - 
 This folder contains MATLAB code and dependent audio data which can be used to explore the evolution of modal features with strike velocity, and the interpolation of modal features to generate those of intermediate velocity.
 
+DCT Sounds - 
+
 FDTD Example - 
 This folder contains a MATLAB code example of FDTD membrane. The membrane can be iniated with a modal surface or a raised cosine, as options within the code.
